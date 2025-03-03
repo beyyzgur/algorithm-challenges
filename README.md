@@ -2,6 +2,7 @@
 
 |  #  | Challenge                                                                                                                           | Solution                                                                                      |
 | :-: | ----------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------|
+|  5  | [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem?isFullScreen=true)                                    | [aVeryBigSum.kt](solutions/aVeryBigSum.kt)                                                    |
 |  4  | [Median Of The Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)                                       | [medianOfTheTwoSortedArrays.kt](solutions/medianOfTheTwoSortedArrays.kt)                      |
 |  3  | [Compare The Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem?isFullScreen=true)                        | [compareTheTriplets.kt](solutions/compareTheTriplets.kt)                                      |
 |  2  | [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem?isFullScreen=true)                                | [simpleArraySum.kt](solutions/simpleArraySum.kt)                                              |
