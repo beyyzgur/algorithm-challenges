@@ -8,21 +8,21 @@
 fun gradingStudents(grades: Array<Int>): Array<Int> {
     // Write your code here
 
-    var copy = grades
+    var copyOfGrades = grades.copyOf()
 
-    for ( i in copy.indices ) {
-        if ( copy[i] >= 38 ){
+    for ( i in copyOfGrades.indices ) {
+        if ( copyOfGrades[i] >= 38 ){
             when {
 
-                copy[i] % 5 == 3 -> copy[i] = copy[i] + 2
-                copy[i] % 5 == 4 -> copy[i] = copy[i] + 1
+                copyOfGrades[i] % 5 == 3 -> copyOfGrades[i] = copyOfGrades[i] + 2
+                copyOfGrades[i] % 5 == 4 -> copyOfGrades[i] = copyOfGrades[i] + 1
 
             }
         }
 
         else {}
     }
-    return grades
+    return copyOfGrades
 
 }
 
