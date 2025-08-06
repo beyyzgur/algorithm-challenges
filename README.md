@@ -1,7 +1,8 @@
-## Algorithm challenges and their solutions with kotlin
+## Algorithm challenges and their solutions with *Kotlin* and *Swift*
 
 |  #  | Challenge                                                                                                                           | Solution                                                                                      |
 | :-: | ----------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------|
+|  10 | [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem?isFullScreen=true)                      | [birthdayCakeCandles.swift](solutions/birthdayCakeCandles.swift)                              |
 |  9  | [Grading Students](https://www.hackerrank.com/challenges/grading/problem?isFullScreen=true)                                         | [gradingStudents.kt](solutions/gradingStudents.kt)                                            |
 |  8  | [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem?isFullScreen=true)                                        | [miniMaxSum.kt](solutions/miniMaxSum.kt)                                                      |
 |  7  | [Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem?isFullScreen=true)                                            | [plusMinus.kt](solutions/plusMinus.kt)                                                        |
